@@ -7,4 +7,4 @@ The MITRE Fireline project is focused on bringing the two communities of AI rese
 * Simulation
   - [SimFire](https://github.com/mitrefireline/simfire)
 * Dataset Curation
-  - [BurnMD](https://fireline.mitre.org/burnmd)
+  - [BurnMD](https://fireline.mitre.org/burnmd) [[Paper](https://www.climatechange.ai/papers/iclr2023/19)]
