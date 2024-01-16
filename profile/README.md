@@ -5,7 +5,7 @@ The MITRE Fireline project is focused on bringing the two communities of AI rese
 [[Website](https://fireline.mitre.org)] [[GitHub Pages](https://mitrefireline.github.io)]
 
 * Reinforcement Learning
-  - [SimHarness](https://github.com/mitrefireline/simharness)
+  - [SimHarness](https://github.com/mitrefireline/simharness) [[Paper](https://arxiv.org/pdf/2311.15925.pdf)]
 * Simulation
   - [SimFire](https://github.com/mitrefireline/simfire) [[Docs](https://mitrefireline.github.io/simfire)]
 * Dataset Curation
